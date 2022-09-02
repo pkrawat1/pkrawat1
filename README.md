@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola! Visitor</h1>
 
 
-<p>Welcome to my page! </br> I'm Pankaj, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Dehradun, India</b>. </p>
+<p>Welcome to my page! </br> I'm Pankaj from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Dehradun, India</b>. </p>
 <h3>My tools</h3>
 <p>
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=white" />
