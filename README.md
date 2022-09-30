@@ -5,7 +5,7 @@
 <h3>My tools</h3>
 <p>
   <img alt="Vim" src="https://img.shields.io/badge/Spacevim-lightgreen?style=flat-square&logo=vim&logoColor=darkgreen" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=8A7B8D" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=AF2A7F" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-brown?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-brown?style=flat-square&logo=go&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
