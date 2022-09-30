@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Pankaj from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Dehradun, India</b>. </p>
 <h3>My tools</h3>
 <p>
-  <img alt="Elixir" src="https://img.shields.io/badge/Spacevim-019833?style=flat-square&logo=vim&logoColor=darkgreen" />
+  <img alt="Vim" src="https://img.shields.io/badge/Spacevim-green?style=flat-square&logo=vim&logoColor=darkgreen" />
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=8A7B8D" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-brown?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-brown?style=flat-square&logo=go&logoColor=white" />
