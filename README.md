@@ -29,13 +29,20 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/pkrawat1/angel-trading"><b>AngelTrading</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pkrawat1/angel-trading?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pkrawat1/angel-trading?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pkrawat1/angel-trading?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pkrawat1/angel-trading?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/aviabird/angularspree"><b>Angularspree</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aviabird/angularspree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aviabird/angularspree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aviabird/angularspree?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aviabird/angularspree?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/aviacommerce/avia"><b>Aviacommerce</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aviacommerce/avia?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aviacommerce/avia?style=flat-square&labelColor=343b41"/></td>
