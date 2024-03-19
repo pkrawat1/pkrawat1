@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516053/20780/door_greet.gif?1643516053" width="50"/> Namaste! Visitor</h1>
 
 
-<p>Welcome to my page! </br> I'm Pankaj from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Dehradun, India</b>(based out of Pune). </p>
+<p>Hello, fellow programmer! I'm Pankaj, a software engineer hailing from the vibrant city of <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Dehradun, India</b>, but currently residing in Pune. It's a pleasure to have you here!</p>
 <h3>My tools</h3>
 <p>
   <img alt="Vim" src="https://img.shields.io/badge/Spacevim-lightgreen?style=flat-square&logo=vim&logoColor=darkgreen" />
