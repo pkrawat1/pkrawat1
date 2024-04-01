@@ -80,6 +80,13 @@
   </tbody>
 </table>
 
+<h2 align="center">Languages and Tools I used recently:</h3>
+<p align="center">
+  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pkrawat1&skills=Elixir,Go,React,Rust,Angular,Javascript,HTML,CSS,SCSS,Typescript,Json,Ruby,Other&width=820" alt="CodersRank skills chart"/>
+  </a>
+</p>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/pkrawat1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/pkrawat1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pkrawat1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@pkrawat1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
