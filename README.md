@@ -82,7 +82,7 @@
 
 <h2 align="center">Languages and Tools I used recently:</h3>
 <p align="center">
-  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+  <a href="https://profile.codersrank.io/user/pkrawat1" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pkrawat1&skills=Elixir,Go,React,Rust,Angular,Javascript,HTML,CSS,SCSS,Typescript,Json,Ruby,Other&width=820" alt="CodersRank skills chart"/>
   </a>
 </p>
